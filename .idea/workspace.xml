@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2df1f9d5-3638-43db-98f9-63e818552105" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nCw1zOheCc6L85JH69SRWoS4ny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.OpenMenu.executor": "Run",
+    "TestNG.OpenMenu.openMenuTest.executor": "Run",
+    "TestNG.Testlogin (1).executor": "Run",
+    "TestNG.Testlogin.loginTest.executor": "Run",
+    "TestNG.openMenu.executor": "Run",
+    "TestNG.openMenu.openMenuTest.executor": "Run",
+    "TestNG.testlogin.executor": "Run",
+    "TestNG.testlogin.loginTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jay Patel/IdeaProjects/pageChaining"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jay Patel\IdeaProjects\pageChaining\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jay Patel\IdeaProjects\pageChaining\src\main\resources" />
+      <recent name="C:\Users\Jay Patel\IdeaProjects\pageChaining\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testInvoice" />
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OpenMenu.openMenuTest">
+    <configuration name="OpenMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageChaining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testInvoice" />
+      <option name="MAIN_CLASS_NAME" value="testInvoice.OpenMenu" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenMenu.openMenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageChaining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testInvoice" />
+      <option name="MAIN_CLASS_NAME" value="testInvoice.OpenMenu" />
+      <option name="METHOD_NAME" value="openMenuTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testlogin (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageChaining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testInvoice" />
+      <option name="MAIN_CLASS_NAME" value="testInvoice.Testlogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testlogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageChaining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testInvoice" />
+      <option name="MAIN_CLASS_NAME" value="testInvoice.Testlogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testlogin.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageChaining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testInvoice" />
+      <option name="MAIN_CLASS_NAME" value="testInvoice.Testlogin" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OpenMenu.openMenuTest" />
+        <item itemvalue="TestNG.Testlogin.loginTest" />
+        <item itemvalue="TestNG.Testlogin (1)" />
+        <item itemvalue="TestNG.OpenMenu" />
+        <item itemvalue="TestNG.Testlogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2df1f9d5-3638-43db-98f9-63e818552105" name="Changes" comment="" />
+      <created>1728490156616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728490156616</updated>
+    </task>
+    <servers />
+  </component>
+</project>
